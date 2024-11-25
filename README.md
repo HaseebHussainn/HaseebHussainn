@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HaseebHussainn
 - 👀 I’m interested in beating the house 
-- 🌱 I’m currently learning AI and Data manipulation 
-- 📫 How to reach me Linkedin
+- 🌱 I’m currently learning ML and Data analytics  
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I will win. 
 
